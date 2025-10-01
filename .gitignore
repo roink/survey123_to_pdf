@@ -1,0 +1,14 @@
+venv/
+out_pdfs/*
+!out_pdfs/.gitkeep
+
+# Python cache artifacts
+__pycache__/
+*.py[cod]
+
+# Local sample data files
+survey_0.csv
+survey_o.csv
+
+# Temporary lock files
+.~lock.*
