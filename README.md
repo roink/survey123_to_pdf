@@ -1,3 +1,4 @@
+[![GitHub Org](https://img.shields.io/badge/GitHub-HESCOR-blue?logo=github&logoColor=white)](https://github.com/HESCOR)
 # Survey123 to PDF Exporter
 
 This project provides a command-line workflow for turning a Survey123 CSV export into a set of A4 PDF summaries. It was designed around the following requirements:
